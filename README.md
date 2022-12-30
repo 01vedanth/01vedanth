@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @01vedanth
 - 🌱 I’m currently learning Data science
+- python programming 
 
 <!---
 01vedanth/01vedanth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
